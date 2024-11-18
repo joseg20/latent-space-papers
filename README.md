@@ -7,7 +7,7 @@
 - [LA-HCN: Label-based Attention for Hierarchical Multi-label Text Classification Neural Network](http://arxiv.org/abs/2009.10938)
 - [Concept-based Label Embedding via Dynamic Routing for Hierarchical Text Classification](https://doi.org/10.18653/v1/2021.acl-long.388)
 - [Instances and Labels: Hierarchy-aware Joint Supervised Contrastive Learning for Hierarchical Multi-Label Text Classification](https://doi.org/10.18653/v1/2023.findings-emnlp.594)
-- [Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://openreview.net/pdf?id=XYZ12345)
+- [Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/abs/2204.13207)
 - [Label Embedding using Hierarchical Structure of Labels for Twitter Classification](https://doi.org/10.18653/v1/d19-1660)
 - [Cross-Domain Label-Adaptive Stance Detection](http://arxiv.org/abs/2104.07467)
 - [Hierarchy-aware Label Semantics Matching Network for Hierarchical Text Classification](https://doi.org/10.18653/v1/2021.acl-long.337)
