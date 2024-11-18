@@ -1,6 +1,6 @@
 # latent-space-papers
 
-- [Learning Label Hierarchy with Supervised Contrastive Learning](https://aclanthology.org/2024.findings-eacl.1569)
+- [Learning Label Hierarchy with Supervised Contrastive Learning](https://aclanthology.org/2024.findings-eacl.108/)
 - [HIER: Metric Learning Beyond Class Labels via Hierarchical Regularization](https://doi.org/10.1109/cvpr52729.2023.01906)
 - [Learning Structured Representations By Embedding Class Hierarchy](https://openreview.net/pdf?id=ABCDEFG123)
 - [Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification](https://aclanthology.org/2021.eacl-main.123)
